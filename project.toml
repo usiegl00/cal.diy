@@ -1,0 +1,2 @@
+[com.heroku.buildpacks.nodejs]
+actions.prune_dev_dependencies = false
